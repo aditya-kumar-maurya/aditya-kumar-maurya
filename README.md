@@ -124,5 +124,12 @@ I'm **Aditya Maurya**, a **B.Tech in Computer Science** graduate from **AKTU (Ma
     <img src="https://komarev.com/ghpvc/?username=aditya-kumar-maurya&icon=0&color=800000" />
   </a>
 </p>
+<br>
+<div align="center">
+<h1>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+M54&pause=1000&color=FDB60D&width=435&lines=Thanks+for+visiting+my+profile!)](https://git.io/typing-svg)
+
+</h1>
+</div>
+

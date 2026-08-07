@@ -125,11 +125,11 @@ I'm **Aditya Maurya**, a **B.Tech in Computer Science** graduate from **AKTU (Ma
   </a>
 </p>
 <br>
+
 <div align="center">
 <h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+M54&pause=1000&color=FDB60D&width=435&lines=Thanks+for+visiting+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+M54&pause=1000&color=FDB60D&width=500&lines=Thanks+for+visiting+my+profile!+❤️)](https://git.io/typing-svg)
 
 </h1>
 </div>
-

@@ -20,17 +20,23 @@ I'm **Aditya Maurya**, a **B.Tech in Computer Science** graduate from **AKTU (Ma
 ## 🌐 Connect with Me
 
 <p align="left">
+  <a href="https://github.com/aditya-kumar-maurya" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/aditya-maurya-bab5aa343/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/Aditya07Maurya" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
   </a>
-  <a href="aditya200704@gmail.com" target="_blank">
+  <a href="mailto:aditya200704@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/_adityamaurya_02" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCmPPsFs9TIxtvqVXgi6jF3A" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
   </a>
 </p>
 
@@ -39,7 +45,7 @@ I'm **Aditya Maurya**, a **B.Tech in Computer Science** graduate from **AKTU (Ma
 ## 🛠 Languages and Tools
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,matplotlib,seaborn,flask,pycharm,java,spring,idea,mysql,github,vscode,chatgpt,claude" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,matplotlib,seaborn,flask,fastapi,scikitlearn,tensorflow,pytorch,supabase,huggingface,vercel,pycharm,java,spring,idea,mysql,postgresql,git,github,vscode,chatgpt,claude" />
 </p>
 
 <br>
@@ -50,8 +56,7 @@ I'm **Aditya Maurya**, a **B.Tech in Computer Science** graduate from **AKTU (Ma
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/sql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 **Frontend & UI**
 
@@ -60,26 +65,38 @@ I'm **Aditya Maurya**, a **B.Tech in Computer Science** graduate from **AKTU (Ma
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-**Backend & Frameworks**
+**Data Science & Machine Learning**
 
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/seaborn-%23444876.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%238A2BE2.svg?style=for-the-badge&logo=probot&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2300A67E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-%234B0082.svg?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-%230078D4.svg?style=for-the-badge&logo=robotframework&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-%23E91E63.svg?style=for-the-badge&logo=probot&logoColor=white)
 
 **Database & Tools**
 
+![SQL](https://img.shields.io/badge/sql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Deployment & Others**
 
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
@@ -121,7 +138,7 @@ I'm **Aditya Maurya**, a **B.Tech in Computer Science** graduate from **AKTU (Ma
 
 <p align="left">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=aditya-kumar-maurya&icon=0&color=800000" />
+    <img src="https://komarev.com/ghpvc/?username=aditya-kumar-maurya&style=for-the-badge&color=138808&label=🇮🇳%20PROFILE%20VIEWS" />
   </a>
 </p>
 <br>
